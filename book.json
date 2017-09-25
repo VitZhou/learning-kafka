@@ -29,7 +29,7 @@
       "wechatText": "微信打赏"
     },
 	"edit-link": {
-        "base": "https://github.com/henryZ/learning-kafka/edit/master",
+        "base": "https://github.com/henryZ/learning-kafka.git/edit/master",
         "label": "Edit"
     },
     "tbfed-pagefooter": {
